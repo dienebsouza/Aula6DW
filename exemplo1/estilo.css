@@ -1,0 +1,23 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    float: left;
+    margin-right: 100px;
+}
+
+#box1 { box-shadow: 10px 10px #4969ac; }
+#box2 { box-shadow: 20px 20px 10px #bd4c38; }
+#box3 { box-shadow: 20px 20px 10px #ac2b56; }
+
+div2 {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: aliceblue;
+    border-radius: 50%;
+}
+
+body {
+    background-image: linear-gradient(to right, #20b9ff, rgb(255, 99, 37), #ff275d);
+}
